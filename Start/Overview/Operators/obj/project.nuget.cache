@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UHyQrh1KXZE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NateEnsign\\Desktop\\c#_linkedin_course\\Start\\Overview\\Operators\\Operators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NateEnsign\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\NateEnsign\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\NateEnsign\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\NateEnsign\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
